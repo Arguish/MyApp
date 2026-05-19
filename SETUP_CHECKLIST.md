@@ -32,19 +32,6 @@ JAVA_HOME = C:\Program Files\Java\jdkXX
 ANDROID_HOME = C:\Users\YourUser\AppData\Local\Android\Sdk
 ```
 
-## Status Actual
-
-✓ Node.js: v24.11.0
-✓ npm: 11.6.1
-⚠ Java: v26 (máx soportado: v20, descargar JDK 17-20)
-✗ Android SDK: No configurado
-✗ ANDROID_HOME: No configurado
-✗ Android Studio: No instalado
-✗ Emulador/Dispositivo: No conectado
-✓ Proyecto: MyApp creado en ./MyApp
-
-## Acciones Pendientes y Comandos
-
 ### PASO 1: Descargar JDK compatible (17-20)
 
 Link: https://www.oracle.com/java/technologies/downloads/
